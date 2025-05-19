@@ -33,6 +33,8 @@ prepare() {
 
   export LLVM=1
   export PATH="$HOME/llvm/bin:$PATH"
+  echo path: $PATH
+  echo home: $HOME
   git reset --hard
 
   echo "Setting version..."
