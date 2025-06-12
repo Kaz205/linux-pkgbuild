@@ -1,5 +1,5 @@
 pkgbase=linux-desktop
-pkgver=6.15.2.arch1
+pkgver=6.14.11.arch1
 pkgrel=1
 pkgdesc='Linux'
 url='https://github.com/Kaz205/linux'
